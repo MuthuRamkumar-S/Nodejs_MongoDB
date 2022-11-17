@@ -1,0 +1,22 @@
+{
+  "name": "file_uploading_mongo_nodejs",
+  "version": "1.0.0",
+  "description": "Uploading files to mongo db using node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuthuRamkumar-S/Nodejs_MongoDB.git"
+  },
+  "author": "Muthu @ Ramkumar S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuthuRamkumar-S/Nodejs_MongoDB/issues"
+  },
+  "homepage": "https://github.com/MuthuRamkumar-S/Nodejs_MongoDB#readme",
+  "dependencies": {
+    "mongoose": "^6.7.2"
+  }
+}
